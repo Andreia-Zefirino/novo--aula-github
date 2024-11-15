@@ -1,0 +1,8 @@
+Passos
+
+git init
+git add .
+git commit -m "menssagem"
+git branch -M main
+git remote add origin https://github.com/Andreia-Zefirino/novo--aula-github.git
+git pushi -u origin main
